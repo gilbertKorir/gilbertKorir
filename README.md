@@ -51,14 +51,14 @@
 <details>
   <summary> Contribution </summary>
   
-   - [github](https://github.com/100jared)
+   - [github](https://github.com/gilbertKorir)
 </details>
 
   
 
-![gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=100jared&show_icons=true&theme=radical)
+![gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertKorir&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100jared&layout=grid)](https://github.com/100jared/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertKorir&layout=grid)](https://github.com/gilbertKorir/github-readme-stats)
 
 
 
