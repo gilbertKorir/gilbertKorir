@@ -31,9 +31,9 @@
 <details>
   <summary>Web deveoper</summary>
   
-   - [Instant-food](https://100jared.github.io/independent-project/)
-   - [online-voting](https://100jared.github.io/vote-bluetech/)
-   - [business-websites](https://100jared.github.io/independent-project2./)
+   - [Instant-food](https://gilbertkorir.github.io/pizza-inn/)
+   - [Management Web](https://my-animal-tracker.herokuapp.com/)
+   - [business-websites](https://gilbertkorir.github.io/Delani-studio/)
 </details>
  
 <details>
