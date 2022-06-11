@@ -56,9 +56,9 @@
 
   
 
-![gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertKorir&show_icons=true&theme=radical)
+![gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertKorir&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertKorir&layout=grid)](https://github.com/gilbertKorir/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertKorir&layout=grid)](https://github.com/gilbertKorir/github-readme-stats)
+
 
 
 
