@@ -49,8 +49,8 @@
 <details>
   <summary>  Problem solver </summary>
   
-   - [leetcode](https://leetcode.com/gilbert-korir/)
-   - [GeeksforGeeks](https://leetcode.com/gilbert-korir/)
+   - [Hacker Rank](https://www.hackerrank.com/dashboard)
+   - [Code Wars](https://www.codewars.com/users/gilbert_korir)
 </details>
 <details>
   <summary> Global community </summary>
