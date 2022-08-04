@@ -15,7 +15,14 @@
   <a>
     <img src = "https://camo.githubusercontent.com/89f09922e10e67c940abbd1e8b1434ec35d84e56415c340b62b32b287cbf683e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d636972636c65266c6f676f3d63737333">
   </a>&nbsp;
-  
+      <a>
+    <img src = "https://img.shields.io/badge/-Firebase-imortant">
+  </a>&nbsp;
+    </a>&nbsp;
+      <a>
+    <img src = "https://img.shields.io/badge/-postgreSQL-lightgrey">
+  </a>&nbsp;
+
   <a>
     <img src = "https://github.com/100jared/100jared/blob/main/js.png" height="25px" width="40px">
   </a>&nbsp;
