@@ -6,6 +6,9 @@
 ## language & Tools
 
 <p>
+    <a>
+    <img src = "https://img.shields.io/badge/-Java-orange">
+  </a>&nbsp;
   <a>
     <img src = "https://camo.githubusercontent.com/519b008b6e1ea17a5444484d32ec29ba68898c3c2ed8b23a7b393f0200fc6a77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d636972636c65266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
   </a>&nbsp;
