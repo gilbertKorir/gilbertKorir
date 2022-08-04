@@ -54,7 +54,6 @@
 </details>
 <details>
   <summary> Global community </summary>
-  
    - Let's connect on linkedin [here](https://www.linkedin.com/in/gilbert-korir-911886115/)
 </details>
 
