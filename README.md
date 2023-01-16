@@ -23,7 +23,7 @@
     <img src = "https://img.shields.io/badge/-postgreSQL-lightgrey">
   </a>&nbsp;
    <a>
-    <img src = "https://img.shields.io/badge/-C#-blue">
+    <img src = "https://img.shields.io/badge/-C-sharp-blue">
   </a>&nbsp;
    <a>
     <img src = "https://img.shields.io/badge/-SQLite-pink">
