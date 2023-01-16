@@ -22,6 +22,9 @@
       <a>
     <img src = "https://img.shields.io/badge/-postgreSQL-lightgrey">
   </a>&nbsp;
+   <a>
+    <img src = "https://img.shields.io/badge/-csharp-blue">
+  </a>&nbsp;
 
   <a>
     <img src = "https://github.com/100jared/100jared/blob/main/js.png" height="25px" width="40px">
