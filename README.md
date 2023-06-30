@@ -50,7 +50,7 @@
 <p>What do I do? <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png" height="20px" width="30px"></p>
 
 <details>
-  <summary>Web deveoper</summary>
+  <summary>Software</summary>
   
    - [Instant-food](https://gilbertkorir.github.io/pizza-inn/)
    - [Management Web](https://my-animal-tracker.herokuapp.com/)
@@ -58,7 +58,7 @@
 </details>
  
 <details>
-  <summary>  Problem solver </summary>
+  <summary>  Problem solving </summary>
   
    - [Hacker Rank](https://www.hackerrank.com/dashboard)
    - [Code Wars](https://www.codewars.com/users/gilbert_korir)
@@ -73,7 +73,8 @@
   
    - [github](https://github.com/gilbertKorir)
 </details>
-![Gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertKorir&theme=neon&show_icons=true)
+
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=gilbertKorir&theme=cobalt2)]
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gilbertKorir&theme=cobalt2)](https://git.io/streak-stats)
 
