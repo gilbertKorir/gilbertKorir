@@ -73,6 +73,7 @@
   
    - [github](https://github.com/gilbertKorir)
 </details>
+![Gilbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertKorir&theme=neon&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gilbertKorir&theme=cobalt2)](https://git.io/streak-stats)
 
