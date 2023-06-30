@@ -71,7 +71,7 @@
 
   
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gilbertKorir&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gilbertKorir&theme=neon)](https://git.io/streak-stats)
 
 
 
